@@ -1,38 +1,97 @@
-# 第九课 练习 - Lesson 9 Exercises
-## 你儿子在哪儿工作 - Where Does Your Son Work
-
 ### Multiple Choice
-1. 你在___工作？(Where do you work?)
-   - A) 什么
-   - B) 谁
-   - C) 哪儿 ✓
-   - D) 几
 
-2. 他在___工作。(He works at the hospital.)
-   - A) 学校
-   - B) 商店
-   - C) 医院 ✓
-   - D) 家
+1. 我的杯子___家。Điền từ "ở".
+- A) 是
+- B) 有
+- C) 在 ✓
+- D) 去
 
-3. What does 女儿 mean?
-   - A) son
-   - B) daughter ✓
-   - C) mother
-   - D) sister
+2. 你在___工作？Hỏi địa điểm làm việc.
+- A) 那儿
+- B) 哪儿 ✓
+- C) 这儿
+- D) 谁
+
+3. 他是医生，他在___工作。Điền từ bệnh viện.
+- A) 学校
+- B) 商店
+- C) 医院 ✓
+- D) 家
+
+4. 你爸爸在哪儿___？Điền từ làm việc.
+- A) 学习
+- B) 工作 ✓
+- C) 看书
+- D) 做
+
+5. 我儿子是___，他在医院工作。Điền từ bác sĩ.
+- A) 老师
+- B) 学生
+- C) 医生 ✓
+- D) 朋友
+
+6. 小___在椅子下面。Con vật được nói đến là mèo.
+- A) 狗
+- B) 猫 ✓
+- C) 人
+- D) 朋友
+
+7. 小___在那儿。Con vật được nói đến là chó.
+- A) 猫
+- B) 狗 ✓
+- C) 人
+- D) 朋友
+
+8. 小猫在___下面。Điền từ ghế.
+- A) 桌子
+- B) 椅子 ✓
+- C) 书
+- D) 床
+
+9. 小狗在椅子___。Con chó ở phía dưới ghế.
+- A) 上面
+- B) 里面
+- C) 下面 ✓
+- D) 前面
+
+10. 我___在医院工作。Người được nói đến là bố.
+- A) 妈妈
+- B) 爸爸 ✓
+- C) 儿子
+- D) 女儿
+
+11. 小猫在___。Điền từ chỉ ở đó.
+- A) 哪儿
+- B) 这儿
+- C) 那儿 ✓
+- D) 什么
+
+12. 我爸爸___在家，他在医院。Điền từ phủ định.
+- A) 没
+- B) 不 ✓
+- C) 是
+- D) 很
+
+13. 我儿子___学校看书。Điền từ "ở" trước nơi chốn.
+- A) 去
+- B) 是
+- C) 在 ✓
+- D) 有
 
 ### Fill in the Blanks
-1. 他在学校___。(He works at school.) → 工作
-2. 你的儿子在___工作？→ 哪儿
-3. 我在___里。(I'm at home.) → 家
-4. 她在___工作。(She works at a store.) → 商店
 
-### Flashcards
-| Front | Back |
-|-------|------|
-| 儿子 | érzi - son |
-| 女儿 | nǚ'ér - daughter |
-| 哪儿 | nǎr - where |
-| 工作 | gōngzuò - work |
-| 家 | jiā - home |
-| 医院 | yīyuàn - hospital |
-| 商店 | shāngdiàn - shop |
+1. Điền từ "ở": 我___家 → 在
+2. Điền từ hỏi "ở đâu": 你的杯子在___ → 哪儿
+3. Điền từ "ở đó": 小狗在___ → 那儿
+4. Điền từ "làm việc": 我儿子在医院___ → 工作
+5. Điền từ "con trai": 我___是学生 → 儿子
+6. Điền từ "bệnh viện": 他是医生，他在___工作 → 医院
+7. Điền từ "bác sĩ": 我爸爸是___ → 医生
+8. Điền từ "bố": 我___在家 → 爸爸
+9. Điền từ "mèo": 小___在椅子下面 → 猫
+10. Điền từ "chó": 小___在那儿 → 狗
+11. Điền từ "ghế": 小猫在___下面 → 椅子
+12. Điền từ "bên dưới": 小狗在椅子___ → 下面
+13. Điền từ phủ định: 我爸爸___在家，他在医院 → 不
+14. Điền trợ từ hỏi vị trí: 我的杯子___ → 呢
+15. Điền từ "nhỏ": ___猫在那儿 → 小

@@ -1,38 +1,103 @@
-# 第八课 练习 - Lesson 8 Exercises
-## 我想吃饭 - I Want to Eat
-
 ### Multiple Choice
-1. 我___吃饭。(I want to eat.)
-   - A) 会
-   - B) 是
-   - C) 想 ✓
-   - D) 在
 
-2. 她想___茶。(She wants to drink tea.)
-   - A) 吃
-   - B) 喝 ✓
-   - C) 说
-   - D) 写
+1. 我___喝茶。Điền từ muốn.
+- A) 会
+- B) 在
+- C) 想 ✓
+- D) 是
 
-3. What does 米饭 mean?
-   - A) noodles
-   - B) cooked rice ✓
-   - C) bread
-   - D) tea
+2. 你想___什么？我想喝茶。Hỏi về đồ uống.
+- A) 吃
+- B) 喝 ✓
+- C) 买
+- D) 做
+
+3. 我想___米饭。Điền động từ ăn.
+- A) 喝
+- B) 吃 ✓
+- C) 买
+- D) 做
+
+4. 你想喝什么？我想喝___。Điền từ trà.
+- A) 米饭
+- B) 水
+- C) 茶 ✓
+- D) 菜
+
+5. 你想吃什么？我想吃___。Điền từ cơm.
+- A) 茶
+- B) 水
+- C) 菜
+- D) 米饭 ✓
+
+6. 我想___一个杯子。Điền từ mua.
+- A) 吃
+- B) 做
+- C) 买 ✓
+- D) 喝
+
+7. 我想买一___杯子。Điền lượng từ.
+- A) 本
+- B) 个 ✓
+- C) 口
+- D) 块
+
+8. 你想买什么？我想买一个___。Đồ vật muốn mua là cái ly.
+- A) 商店
+- B) 电脑
+- C) 杯子 ✓
+- D) 书
+
+9. 我下午去___买杯子。Điền từ cửa hàng.
+- A) 学校
+- B) 医院
+- C) 商店 ✓
+- D) 家
+
+10. 这个杯子___钱？Hỏi giá.
+- A) 几
+- B) 多少 ✓
+- C) 什么
+- D) 怎么
+
+11. ___个杯子十八块钱。Người nói chỉ cái ly này ở gần.
+- A) 那
+- B) 哪
+- C) 这 ✓
+- D) 一
+
+12. ___个杯子多少钱？Người nói hỏi giá cái ly kia ở xa.
+- A) 这
+- B) 那 ✓
+- C) 哪
+- D) 一
+
+13. 这个杯子二十___钱。Điền đơn vị tiền.
+- A) 个
+- B) 元
+- C) 块 ✓
+- D) 口
+
+14. 我明天___去商店。Điền từ buổi chiều.
+- A) 上午
+- B) 下午 ✓
+- C) 今天
+- D) 昨天
 
 ### Fill in the Blanks
-1. 我想___饭。(I want to eat.) → 吃
-2. 他想喝___。(He wants to drink water.) → 水
-3. 我不___吃。(I don't want to eat.) → 想
-4. 她吃___饭了。(She has eaten.) → 了 (reorder: 她吃饭了)
 
-### Flashcards
-| Front | Back |
-|-------|------|
-| 想 | xiǎng - want, think |
-| 吃 | chī - to eat |
-| 喝 | hē - to drink |
-| 水 | shuǐ - water |
-| 茶 | chá - tea |
-| 米饭 | mǐfàn - rice |
-| 菜 | cài - dish, vegetable |
+1. Điền từ "muốn": 我___喝茶 → 想
+2. Điền từ "uống": 你想___茶吗 → 喝
+3. Điền từ "ăn": 我想___米饭 → 吃
+4. Điền từ "trà": 你想喝什么？我想喝___ → 茶
+5. Điền từ "cơm": 我想吃___ → 米饭
+6. Điền từ "buổi chiều": 明天___我去商店 → 下午
+7. Điền từ "cửa hàng": 我去___买杯子 → 商店
+8. Điền từ "mua": 我想___一个杯子 → 买
+9. Điền lượng từ cho cái ly: 我想买一___杯子 → 个
+10. Điền từ "ly/cốc": 这个___多少钱 → 杯子
+11. Điền từ "này" (vật ở gần): ___个杯子十八块钱 → 这
+12. Điền từ "kia" (vật ở xa): ___个杯子多少钱 → 那
+13. Điền từ "bao nhiêu": 这个杯子___钱 → 多少
+14. Điền từ "tiền": 这个杯子多少___ → 钱
+15. Điền đơn vị tiền kuài: 这个杯子二十八___钱 → 块
