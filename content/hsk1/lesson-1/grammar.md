@@ -24,21 +24,3 @@ B: 没关系！ Méi guānxi! — It's okay!
 | 现在休息！ | Xiànzài xiūxi! | Take a break now! |
 | 看黑板！ | Kàn hēibǎn! | Look at the blackboard! |
 | 跟我读！ | Gēn wǒ dú! | Read after me! |
-
-### 汉字 Chinese Characters
-
-#### Basic Strokes (1)
-
-| Stroke | Name | Pinyin | Direction | Example |
-|--------|------|--------|-----------|--------|
-| 一 | horizontal | héng | → | 一 yī, 二 èr |
-| 丨 | vertical | shù | ↓ | 十 shí, 工 gōng |
-| 丿 | left-falling | piě | ↙ | 人 rén, 八 bā |
-| 丶 | dot | diǎn | ↘ | 不 bù, 六 liù |
-| ㇏ | right-falling | nà | ↘ | 大 dà, 天 tiān |
-
-#### Simple Characters (独体字)
-
-**一 yī** — The horizontal stroke is also a character on its own, meaning one.
-
-**二 èr** — Two horizontal strokes form the character for two.
