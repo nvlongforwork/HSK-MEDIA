@@ -1,38 +1,97 @@
-# 第十四课 练习 - Lesson 14 Exercises
-## 她买了很多衣服 - She Bought Many Clothes
-
 ### Multiple Choice
-1. 她___了很多衣服。(She bought many clothes.)
-   - A) 看
-   - B) 吃
-   - C) 买 ✓
-   - D) 做
 
-2. 这个___钱？(How much is this?)
-   - A) 几
-   - B) 多少 ✓
-   - C) 什么
-   - D) 怎么
+1. 我去商店买___了。Nói chung về đồ mua được.
+- A) 苹果
+- B) 衣服
+- C) 东西 ✓
+- D) 杯子
 
-3. 太___了！(Too expensive!)
-   - A) 大
-   - B) 多
-   - C) 热
-   - D) 贵 ✓
+2. 我买了___苹果。Điền cụm một ít.
+- A) 不少
+- B) 一点儿 ✓
+- C) 很多
+- D) 这些
+
+3. 你___李老师了吗？Điền từ nhìn thấy.
+- A) 看
+- B) 看见 ✓
+- C) 喜欢
+- D) 认识
+
+4. 张___去学开车了。Hoàn thành cách gọi ông Trương.
+- A) 小姐
+- B) 老师
+- C) 先生 ✓
+- D) 同学
+
+5. 我爸爸会___车。Điền động từ lái.
+- A) 坐
+- B) 买
+- C) 开 ✓
+- D) 做
+
+6. 他去学开___了。Điền từ xe.
+- A) 书
+- B) 车 ✓
+- C) 飞机
+- D) 门
+
+7. 他四十分钟后能___。Điền cụm quay trở lại.
+- A) 回家
+- B) 回来 ✓
+- C) 回去
+- D) 出去
+
+8. 他十___后回来。Điền đơn vị thời lượng phút.
+- A) 点
+- B) 天
+- C) 分钟 ✓
+- D) 小时
+
+9. 我五点___回家。Về nhà sau 5 giờ.
+- A) 前
+- B) 后 ✓
+- C) 半
+- D) 里
+
+10. 她买了不少___。Điền từ quần áo.
+- A) 东西
+- B) 苹果
+- C) 衣服 ✓
+- D) 书
+
+11. 你的衣服太___了！Điền tính từ đẹp.
+- A) 好
+- B) 大
+- C) 漂亮 ✓
+- D) 高兴
+
+12. ___都是我的东西。Điền từ những thứ này.
+- A) 那些
+- B) 这些 ✓
+- C) 我们
+- D) 他们
+
+13. 我们___喜欢喝茶。Toàn bộ mọi người trong nhóm đều thích.
+- A) 也
+- B) 都 ✓
+- C) 很
+- D) 不
 
 ### Fill in the Blanks
-1. 她买___很多衣服。→ 了
-2. 这个___钱？→ 多少
-3. 我想买一___东西。→ 些
-4. 十___钱。→ 块
 
-### Flashcards
-| Front | Back |
-|-------|------|
-| 买 | mǎi - to buy |
-| 衣服 | yīfu - clothes |
-| 钱 | qián - money |
-| 多少 | duōshao - how much |
-| 块 | kuài - yuan |
-| 东西 | dōngxi - thing |
-| 些 | xiē - some |
+1. Điền từ "đồ đạc": 我去商店买___了 → 东西
+2. Điền cụm "một ít": 我买了___苹果 → 一点儿
+3. Điền từ "táo": 她买了一点儿___ → 苹果
+4. Điền từ "nhìn thấy": 你___李老师了吗 → 看见
+5. Điền cách gọi "ông/ngài": 张___去学开车了 → 先生
+6. Điền từ "lái": 我会___车 → 开
+7. Điền trợ từ le báo sự việc đã xảy ra: 我昨天去商店___ → 了
+8. Điền cụm "quay trở lại": 他四十分钟后能___ → 回来
+9. Điền từ "phút": 他十___后回来 → 分钟
+10. Điền từ "sau" một mốc thời gian: 我五点___回家 → 后
+11. Điền từ "quần áo": 她买了不少___ → 衣服
+12. Điền từ "đẹp": 你的衣服太___了 → 漂亮
+13. Điền từ "đều": 这些___是我的东西 → 都
+14. Điền một chữ phủ định việc đã làm: 我昨天___买衣服 → 没
+15. Hoàn thành lời đồng tình shì a: 是___，她买了不少衣服 → 啊
