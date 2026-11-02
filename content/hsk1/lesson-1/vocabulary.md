@@ -4,12 +4,8 @@
 | # | 汉字 | 拼音 | English | Example |
 |---|------|------|---------|---------|
 | 1 | 你 | nǐ | you | 你好！|
-| 2 | 好 | hǎo | good | 你好！|
-| 3 | 您 | nín | you (polite) | 您好！|
-| 4 | 我 | wǒ | I, me | 我好。|
-| 5 | 很 | hěn | very | 我很好。|
-| 6 | 呢 | ne | (question particle) | 你呢？|
-| 7 | 也 | yě | also | 我也很好。|
-| 8 | 们 | men | (plural suffix) | 你们好！|
-| 9 | 大家 | dàjiā | everyone | 大家好！|
-| 10 | 再见 | zàijiàn | goodbye | 再见！|
+| 2 | 好 | hǎo | good, well | 你好！|
+| 3 | 您 | nín | you (polite, respectful) | 您好！|
+| 4 | 你们 | nǐmen | you (plural) | 你们好！|
+| 5 | 对不起 | duìbuqǐ | sorry | 对不起！|
+| 6 | 没关系 | méi guānxi | it's okay, no problem | 没关系！|
