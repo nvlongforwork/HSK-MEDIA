@@ -13,6 +13,11 @@
 
 ### Simple Characters (独体字)
 
-**一 yī** — The horizontal stroke is also a character on its own, meaning one.
-
-**二 èr** — Two horizontal strokes form the character for two.
+| # | Character | Pinyin | Strokes | Meaning |
+|---|-----------|--------|---------|--------|
+| 1 | 一 | yī | 1 | one |
+| 2 | 二 | èr | 2 | two |
+| 3 | 三 | sān | 3 | three |
+| 4 | 十 | shí | 2 | ten |
+| 5 | 八 | bā | 2 | eight |
+| 6 | 六 | liù | 4 | six |
