@@ -1,41 +1,37 @@
 # 第五课 语法 - Lesson 5 Grammar
-## 他的猫很可爱 - His Cat Is Cute
+## 她女儿今年二十岁。 - Her Daughter Is Twenty Years Old This Year.
 
-### 1. 有 (yǒu) - To Have
-Express possession.
+### 1. 有 Sentences
+
+有 (yǒu) expresses possession (“to have”) or existence (“there is/are”).
 
 **Structure:** Subject + 有 + Object
 
-> 我有一个猫。— I have a cat.
-> 他有很多书。— He has many books.
+> （1）我家有三口人。
+> （2）他有一个中国朋友。
+> （3）我有汉语书 (shū, book)。
 
-**Negative:** Subject + 没有 + Object (NOT 不有)
+**Negative:** Use 没有, NOT 不有.
 
-> 我没有狗。— I don't have a dog.
-> ❌ 我不有狗。
+> （1）我没有女儿。
+> （2）他没有中国朋友。
 
-### 2. Measure Words 量词
-Chinese needs a measure word between number and noun.
+### 2. Asking About Age
 
-**Structure:** Number + Measure Word + Noun
+Chinese has different expressions for asking age depending on the person:
 
-> 一个人 — one person
-> 三个学生 — three students
-> 两本书 — two books
+| Expression | Usage | Example |
+|------------|-------|--------|
+| 几岁了？ | For children (under ~10) | 你女儿几岁了？|
+| 多大了？ | For peers or general use | 李老师多大了？|
 
-**个 (gè)** is the most common, used when unsure.
+> （1）你女儿几岁了？—— 她今年四岁了。
+> （2）李老师多大了？—— 她今年50岁了。
 
-### 3. Adjective Predicates
-Adjectives act as verbs in Chinese — no 是 needed.
+### 3. Particle 了 (Change of State)
 
-**Structure:** Subject + 很 + Adjective
+了 (le) at the end of a sentence indicates a new situation or change of state.
 
-> 猫很小。— The cat is small.
-> 他的狗很大。— His dog is big.
-
-**Wrong:** ❌ 猫是小。
-
-### 4. 多/少 (duō/shǎo) - Many/Few
-
-> 我有很多朋友。— I have many friends.
-> 他的书很少。— He has few books.
+> （1）她今年四岁了。(She has turned four.)
+> （2）她今年50岁了。(She has turned 50.)
+> （3）他是大学生了。(He has become a college student.)
