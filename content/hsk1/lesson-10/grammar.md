@@ -1,35 +1,42 @@
 # 第十课 语法 - Lesson 10 Grammar
-## 我能坐这儿吗 - Can I Sit Here
+## 我能坐这儿吗？ - Can I Sit Here?
 
-### 1. 能 (néng) vs 会 (huì) - Two Types of "Can"
-- **会**: learned ability (I can speak Chinese)
-- **能**: permission or physical ability (Can I sit here?)
+### 1. 有 Sentences for Existence
 
-> 我能坐这儿吗？— Can I sit here? (permission)
-> 我会说中文。— I can speak Chinese. (ability)
+有 (yǒu) can be used to express the existence of something at a location.
 
-### 2. Location Words 方位词
-Used after nouns to show position.
+| Location | 有 | Person/Thing |
+|----------|---|--------|
+| 椅子下面 | 有 | 一只小狗。|
+| 学校里 | 有 | 一个商店。|
+| 桌子上 | 有 | 一个电脑和一本书。|
 
-| Chinese | Meaning |
-|---------|---------|
-| 上 (shàng) | on, above |
-| 下 (xià) | under, below |
-| 前面 (qiánmiàn) | in front |
-| 后面 (hòumiàn) | behind |
-| 里 (lǐ) | inside |
+The negative form uses 没有, and the object cannot have a numeral-measure word modifier before it.
 
-**Structure:** Place/Object + Location Word
+> （1）椅子下面没有小狗。
+> （2）学校里没有商店。
+> （3）桌子上没有电脑和书。
 
-> 桌子上 — on the table
-> 椅子下 — under the chair
+### 2. Conjunction 和
 
-### 3. 这儿/那儿 (zhèr/nàr) - Here/There
+和 (hé) is used to connect two or more parallel elements to express a coordinate relationship.
 
-> 坐这儿。— Sit here.
-> 他在那儿。— He's over there.
+> （1）我有一个中国朋友和一个美国朋友。
+> （2）我家有三口人，爸爸、妈妈和我。
+> （3）桌子上有一个电脑和一本书。
 
-### 4. 请 (qǐng) - Please (Polite Request)
+### 3. Modal Verb 能
 
-> 请坐。— Please sit.
-> 请喝茶。— Please have tea.
+能 (néng) is placed before a verb to express ability or possibility. It is often used in the question pattern "能……吗？" to make a request or ask for permission.
+
+> （1）明天下午我能去商店。
+> （2）你能在这儿写你的名字吗？
+> （3）我能坐这儿吗？
+
+### 4. Imperative Sentences with 请
+
+请 (qǐng) followed by a verb forms a polite imperative sentence, expressing a suggestion, request, or wish.
+
+> （1）请写您的名字。
+> （2）请喝茶。
+> （3）请坐。
