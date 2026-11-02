@@ -1,38 +1,63 @@
 # 第七课 语法 - Lesson 7 Grammar
-## 今天几号 - What Date Is Today
+## 今天几号？ - What Is the Date Today?
 
-### 1. Dates in Chinese
-Order: Year + Month + Day (big to small)
+### 1. Date Expressions (1): Month, Date, Day of the Week
 
-**Structure:** X年X月X日/号
+In Chinese, dates are expressed from the largest unit to the smallest: first 月 (month), then 日/号 (date), and finally 星期 (day of the week). In spoken Chinese, 号 is commonly used instead of 日.
 
-> 2024年三月五号 — March 5, 2024
-> 今天几月几号？— What's today's date?
+> （1）9月1号，星期三。
+> （2）9月2号，星期四。
+> （3）8月31号，星期二。
 
-### 2. 几 (jǐ) - How Many/Which
-Used for small numbers (usually under 10).
+**Months (月份):**
 
-> 今天几号？— What date is today?
-> 你有几个朋友？— How many friends do you have?
-> 几月？— Which month?
+| Chinese | Pinyin | Meaning |
+|---------|--------|--------|
+| 一月 | yī yuè | January |
+| 二月 | èr yuè | February |
+| 三月 | sān yuè | March |
+| 四月 | sì yuè | April |
+| 五月 | wǔ yuè | May |
+| 六月 | liù yuè | June |
+| 七月 | qī yuè | July |
+| 八月 | bā yuè | August |
+| 九月 | jiǔ yuè | September |
+| 十月 | shí yuè | October |
+| 十一月 | shíyī yuè | November |
+| 十二月 | shí'èr yuè | December |
 
-### 3. Days of the Week 星期
-星期 + number (1-6), Sunday = 星期天/日
+**Days of the Week (星期):**
 
-| Chinese | English |
-|---------|---------|
-| 星期一 | Monday |
-| 星期二 | Tuesday |
-| 星期三 | Wednesday |
-| 星期四 | Thursday |
-| 星期五 | Friday |
-| 星期六 | Saturday |
-| 星期天/日 | Sunday |
+| Chinese | Pinyin | Meaning |
+|---------|--------|--------|
+| 星期一 | xīngqī yī | Monday |
+| 星期二 | xīngqī èr | Tuesday |
+| 星期三 | xīngqī sān | Wednesday |
+| 星期四 | xīngqī sì | Thursday |
+| 星期五 | xīngqī wǔ | Friday |
+| 星期六 | xīngqī liù | Saturday |
+| 星期日 / 星期天 | xīngqīrì / xīngqītiān | Sunday |
 
-> 今天星期几？— What day is today?
+### 2. Noun Predicate Sentences
 
-### 4. Time Words as Adverbs
-Time words go before or after the subject.
+A noun predicate sentence is a sentence where the predicate is a noun or noun phrase. It is commonly used to express age, time, and dates.
 
-> 我今天很好。— I'm fine today.
-> 明天你去学校吗？— Are you going to school tomorrow?
+| Subject | Predicate |
+|---------|----------|
+| 我的汉语老师 | 33岁。|
+| 明天 | 星期三。|
+| 今天 | 9月1号。|
+
+### 3. Serial Verb Construction (1): 去 + Place + Action
+
+In a serial verb construction, the predicate consists of two or more verbs. The second verb can express the purpose of the first verb. The object of the first verb (indicating the place) can sometimes be omitted.
+
+| Subject | Verb 1 (去) | Place | Verb 2 (Action) |
+|---------|------------|-------|----------------|
+| 我 | 去 | （中国） | 学习汉语。|
+| 我们 | 去 | （中国饭馆儿） | 吃中国菜。|
+| 我 | 去 | （学校） | 看书。|
+
+> （1）我去中国学习汉语。
+> （2）我们去中国饭馆儿吃中国菜。
+> （3）我去学校看书。
