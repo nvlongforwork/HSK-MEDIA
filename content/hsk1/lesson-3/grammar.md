@@ -1,21 +1,6 @@
 # 第三课 语法 - Lesson 3 Grammar
 ## 你叫什么名字？ - What's Your Name?
 
-### 课文 Dialogues
-
-**Dialogue 1**
-A: 你叫什么名字？ Nǐ jiào shénme míngzi? — What's your name?
-B: 我叫李月。你呢？ Wǒ jiào Lǐ Yuè. Nǐ ne? — My name is Li Yue. And you?
-A: 我叫大卫。 Wǒ jiào Dàwèi. — My name is David.
-
-**Dialogue 2**
-A: 你是老师吗？ Nǐ shì lǎoshī ma? — Are you a teacher?
-B: 不是，我是学生。 Bú shì, wǒ shì xuésheng. — No, I'm a student.
-
-**Dialogue 3**
-A: 你是中国人吗？ Nǐ shì Zhōngguó rén ma? — Are you Chinese?
-B: 不是，我是美国人。 Bú shì, wǒ shì Měiguó rén. — No, I'm American.
-
 ### 语法要点 Grammar Notes
 
 #### 1. Interrogative Pronoun 什么
