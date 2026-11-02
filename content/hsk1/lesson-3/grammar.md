@@ -1,9 +1,7 @@
 # 第三课 语法 - Lesson 3 Grammar
 ## 你叫什么名字？ - What's Your Name?
 
-### 语法要点 Grammar Notes
-
-#### 1. Interrogative Pronoun 什么
+### 1. Interrogative Pronoun 什么
 
 什么 (shénme) means "what" and is placed where the answer would go in the sentence:
 
@@ -12,7 +10,7 @@
 | 你叫什么名字？ | 我叫李月。 |
 | What's your name? | My name is Li Yue. |
 
-#### 2. 是 Sentences
+### 2. 是 Sentences
 
 是 (shì) means "is/am/are" and connects a subject with a noun or noun phrase:
 
@@ -22,7 +20,7 @@
 | 他是学生。 He is a student. | 他不是学生。 He is not a student. |
 | 她是中国人。 She is Chinese. | 她不是中国人。 She is not Chinese. |
 
-#### 3. 吗 Questions
+### 3. 吗 Questions
 
 Add 吗 (ma) to the end of a statement to turn it into a yes/no question:
 
