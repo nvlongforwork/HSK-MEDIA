@@ -1,40 +1,26 @@
 # 第二课 语法 - Lesson 2 Grammar
-## 谢谢你 - Thank You
+## 谢谢你！ - Thank You!
 
-### 1. 是 (shì) - To Be
-Used to link subject with noun, NOT with adjectives.
+### 课文 Dialogues
 
-**Structure:** Subject + 是 + Noun
+**Dialogue 1**
+A: 谢谢！ Xièxie! — Thank you!
+B: 不客气！ Bú kèqi! — You're welcome!
 
-> 我是学生。— I am a student.
-> 他是老师。— He is a teacher.
+**Dialogue 2**
+A: 谢谢你！ Xièxie nǐ! — Thank you!
+B: 不谢！ Bú xiè! — Don't mention it!
 
-**Negative:** Subject + 不是 + Noun
+**Dialogue 3**
+A: 再见！ Zàijiàn! — Goodbye!
+B: 再见！ Zàijiàn! — Goodbye!
 
-> 我不是老师。— I am not a teacher.
+### 课堂用语 Classroom Expressions
 
-### 2. 吗 (ma) - Yes/No Question Particle
-Add 吗 at end of statement to form yes/no question.
-
-**Structure:** Statement + 吗？
-
-> 你是学生吗？— Are you a student?
-> 他好吗？— Is he well?
-
-### 3. 的 (de) - Possessive Particle
-Shows possession, like "'s" in English.
-
-**Structure:** Noun/Pronoun + 的 + Noun
-
-> 我的书 — my book
-> 他的老师 — his teacher
-
-### 4. 不 (bù) - Negation
-Placed before verbs/adjectives to negate.
-
-**Structure:** Subject + 不 + Verb/Adjective
-
-> 我不好。— I'm not well.
-> 他不是学生。— He is not a student.
-
-**Note:** 不 changes to bú before 4th tone: 不是 (bú shì)
+| Chinese | Pinyin | Meaning |
+|---------|--------|--------|
+| 打开书！ | Dǎkāi shū! | Open your books! |
+| 请大声读！ | Qǐng dàshēng dú! | Please read aloud! |
+| 再读一遍！ | Zài dú yí biàn! | Read again! |
+| 一起读！ | Yìqǐ dú! | Read together! |
+| 有问题吗？ | Yǒu wèntí ma? | Any questions? |

@@ -1,15 +1,24 @@
 # 第三课 词汇 - Lesson 3 Vocabulary
-## 你叫什么名字 - What's Your Name
+## 你叫什么名字？ - What's Your Name?
 
-| # | 汉字 | 拼音 | English | Example |
-|---|------|------|---------|---------|
-| 1 | 叫 | jiào | to be called | 我叫小明。|
-| 2 | 什么 | shénme | what | 你叫什么？|
-| 3 | 名字 | míngzi | name | 你的名字。|
-| 4 | 他 | tā | he, him | 他叫什么？|
-| 5 | 她 | tā | she, her | 她是谁？|
-| 6 | 谁 | shéi | who | 他是谁？|
-| 7 | 这 | zhè | this | 这是谁？|
-| 8 | 那 | nà | that | 那是什么？|
-| 9 | 哪 | nǎ | which | 你是哪国人？|
-| 10 | 人 | rén | person, people | 中国人。|
+### 生词 New Words
+
+| # | Character | Pinyin | Meaning | Example |
+|---|-----------|--------|---------|--------|
+| 1 | 叫 | jiào | to be called, to call | 你叫什么名字？|
+| 2 | 什么 | shénme | what | 你叫什么名字？|
+| 3 | 名字 | míngzi | name | 你叫什么名字？|
+| 4 | 我 | wǒ | I, me | 我叫李月。|
+| 5 | 是 | shì | is, am, are | 你是老师吗？|
+| 6 | 老师 | lǎoshī | teacher | 你是老师吗？|
+| 7 | 吗 | ma | question particle | 你是老师吗？|
+| 8 | 学生 | xuésheng | student | 我是学生。|
+| 9 | 人 | rén | person, people | 你是中国人吗？|
+
+### 专有名词 Proper Nouns
+
+| Character | Pinyin | Meaning |
+|-----------|--------|--------|
+| 李月 | Lǐ Yuè | Li Yue (a Chinese name) |
+| 中国 | Zhōngguó | China |
+| 美国 | Měiguó | America, USA |
