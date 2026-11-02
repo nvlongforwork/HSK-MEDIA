@@ -1,36 +1,38 @@
 # 第四课 语法 - Lesson 4 Grammar
-## 她是我的老师 - She Is My Teacher
+## 她是我的汉语老师。 - She Is My Chinese Teacher.
 
-### 1. 是...的 (shì...de) - Identity Sentences
-Link a person with their role/identity.
+### 1. Interrogative Pronouns 谁 and 哪
 
-**Structure:** Subject + 是 + Role/Identity
+**谁 (shéi)** is used in questions to ask about people:
 
-> 她是我的老师。— She is my teacher.
-> 他是医生。— He is a doctor.
+| Subject | Verb | Object |
+|---------|------|--------|
+| 谁 | 是 | 李月？|
+| 她 | 是 | 谁？|
+| 他 | 是 | 谁？|
 
-### 2. 和 (hé) - And
-Connects nouns, NOT sentences.
+**哪 (nǎ)** is used in questions with the structure: **哪 + measure word/noun + noun**
 
-**Structure:** Noun1 + 和 + Noun2
+> （1）哪本 (běn, measure word for books) 书 (shū, book)?
+> （2）哪个 (gè, general measure word) 人？
+> （3）你是哪国人？
 
-> 爸爸和妈妈 — dad and mom
-> 老师和学生 — teacher and student
+### 2. Structural Particle 的
 
-**Wrong:** ❌ 我去学校和他去工作。
-**Right:** ✅ 我和他是同学。
+The structure **noun/pronoun + 的 + noun** indicates possession.
 
-### 3. 的 (de) - Possessive with People
-When relationship is close, 的 can be dropped.
+When the noun after 的 refers to a close relation or title, 的 can be omitted:
 
-> 我的老师 → 我老师 (my teacher)
-> 我的妈妈 → 我妈妈 (my mom)
-> 他的朋友 (his friend — keep 的)
+> （1）李月是我的老师。
+> （2）这 (zhè, this) 是我的书 (shū, book)。
+> （3）她不是我同学，她是我朋友。
 
-### 4. Questions with 是不是
-Another way to ask yes/no questions.
+### 3. Question Particle 呢 (1)
 
-**Structure:** Subject + 是不是 + Noun？
+呢 is placed after a noun or pronoun to form a follow-up question, asking about something already mentioned.
 
-> 她是不是老师？— Is she a teacher?
-> 你是不是学生？— Are you a student?
+**Pattern:** A......。B呢？(A... What about B?)
+
+> （1）我不是老师，我是学生。你呢？
+> （2）她叫李月。他呢？
+> （3）我是美国人。你呢？
