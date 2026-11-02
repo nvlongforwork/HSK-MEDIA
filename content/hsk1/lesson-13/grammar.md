@@ -1,33 +1,55 @@
 # 第十三课 语法 - Lesson 13 Grammar
-## 他在学做中国菜 - He's Learning to Cook Chinese Food
+## 他在学做中国菜呢。 - He Is Learning to Cook Chinese Food.
 
-### 1. 在 + Verb - Progressive (Doing Now)
-Express ongoing action.
+### Interjection 喂
 
-**Structure:** Subject + 在 + Verb
+喂 (wèi) is used as a greeting when answering or making a phone call. It is similar to "Hello?" on the phone in English.
 
-> 他在学做中国菜。— He's learning to cook Chinese food.
-> 我在看书。— I'm reading a book.
-> 她在听音乐。— She's listening to music.
+> 喂，你好！大卫在吗？ — Hello! Is David there?
+> 喂，请问李老师在吗？ — Hello, may I ask if Teacher Li is there?
 
-### 2. Serial Verb Construction
-Two verbs in sequence — the first verb leads to the second.
+### Progressive Aspect 在……呢
 
-**Structure:** Subject + V1 + V2 + Object
+The structure 在……呢 indicates an action is in progress at the time of speaking. 在 is placed before the verb, and 呢 at the end of the sentence.
 
-> 学做菜 — learn to cook
-> 去吃饭 — go to eat
-> 来看书 — come to read
+**Structure:** Subject + 在 + Verb + (Object) + 呢
 
-### 3. 喜欢 (xǐhuan) - To Like
+| Chinese | Pinyin | Meaning |
+|---------|--------|----------|
+| 他在学做中国菜呢。 | Tā zài xué zuò Zhōngguó cài ne. | He's learning to cook Chinese food. |
+| 他在睡觉呢。 | Tā zài shuìjiào ne. | He's sleeping. |
+| 我在看电视呢。 | Wǒ zài kàn diànshì ne. | I'm watching TV. |
+| 她在学习呢。 | Tā zài xuéxí ne. | She's studying. |
 
-**Structure:** Subject + 喜欢 + Noun/Verb
+Note: 在 or 呢 can be used alone, but using both together is most common.
 
-> 我喜欢中国菜。— I like Chinese food.
-> 她喜欢看书。— She likes reading.
-> 他不喜欢喝茶。— He doesn't like drinking tea.
+### Telephone Numbers
 
-### 4. 认识 (rènshi) - To Know (a person)
+Chinese phone numbers are read digit by digit. The digit 1 is read as yāo (not yī) to avoid confusion with 7 (qī).
 
-> 认识你很高兴。— Nice to meet you.
-> 你认识他吗？— Do you know him?
+| Digit | Reading |
+|-------|----------|
+| 0 | líng |
+| 1 | yāo |
+| 2 | èr |
+| 3 | sān |
+| 4 | sì |
+| 5 | wǔ |
+| 6 | liù |
+| 7 | qī |
+| 8 | bā |
+| 9 | jiǔ |
+
+> 我的电话号码是 138-0012-3456。
+> Wǒ de diànhuà hàomǎ shì yāo-sān-bā-líng-líng-yāo-èr-sān-sì-wǔ-liù.
+
+### Modal Particle 吧
+
+吧 (ba) is placed at the end of a sentence to express suggestion, agreement, or a softened command.
+
+| Chinese | Pinyin | Meaning |
+|---------|--------|----------|
+| 我们去吧。 | Wǒmen qù ba. | Let's go. |
+| 请你给他打个电话吧。 | Qǐng nǐ gěi tā dǎ ge diànhuà ba. | Please give him a call. |
+| 好吧。 | Hǎo ba. | Okay (agreeing). |
+| 你睡觉吧。 | Nǐ shuìjiào ba. | Go to sleep. |
