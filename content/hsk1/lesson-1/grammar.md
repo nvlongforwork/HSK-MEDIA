@@ -1,14 +1,14 @@
 # 第一课 语法 - Lesson 1 Grammar
 ## 你好 - Hello
 
-Unit 1 chủ yếu dạy chào hỏi và phát âm, chưa có mục ngữ pháp riêng.
+Unit 1 focuses on greetings and pronunciation; there is no separate grammar section.
 
-| Cách dùng | Mẫu câu | Pinyin | Nghĩa |
-|-----------|---------|--------|-------|
-| Chào một người | 你好！ | Nǐ hǎo! | Xin chào! |
-| Chào lịch sự | 您好！ | Nín hǎo! | Cháu/em xin chào ông, bà, thầy, cô... |
-| Chào nhiều người | 你们好！ | Nǐmen hǎo! | Chào các bạn! |
-| Xin lỗi | 对不起！ | Duìbuqǐ! | Xin lỗi! |
-| Đáp lại lời xin lỗi | 没关系！ | Méi guānxi! | Không sao! |
+| Usage | Pattern | Pinyin | Meaning |
+|-------|---------|--------|--------|
+| Greeting one person | 你好！ | Nǐ hǎo! | Hello! |
+| Polite greeting | 您好！ | Nín hǎo! | Hello! (polite) |
+| Greeting multiple people | 你们好！ | Nǐmen hǎo! | Hello, everyone! |
+| Apologizing | 对不起！ | Duìbuqǐ! | Sorry! |
+| Responding to an apology | 没关系！ | Méi guānxi! | It's okay! |
 
-**Lưu ý phát âm:** Hai âm tiết thanh 3 đứng liền nhau thì âm tiết đầu đọc thành thanh 2. Vì vậy, **nǐ hǎo** khi nói được đọc gần như **ní hǎo**, nhưng vẫn viết pinyin là **nǐ hǎo**.
+**Pronunciation note:** When two third-tone syllables appear in a row, the first one is pronounced as a second tone. So **nǐ hǎo** is spoken almost like **ní hǎo**, but the pinyin is still written as **nǐ hǎo**.
