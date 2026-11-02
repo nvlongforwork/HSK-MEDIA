@@ -1,35 +1,50 @@
 # 第八课 语法 - Lesson 8 Grammar
-## 我想吃饭 - I Want to Eat
+## 我想喝茶。 - I Want to Drink Tea.
 
-### 1. 想 (xiǎng) - Want To
-Express desire or intention.
+### 1. Modal Verb 想
 
-**Structure:** Subject + 想 + Verb + Object
+想 (xiǎng) is placed before a verb to express a wish, desire, or plan.
 
-> 我想吃饭。— I want to eat.
-> 她想喝茶。— She wants to drink tea.
+> （1）我想学汉语。
+> （2）明天我想去学校看书。
+> （3）我想买一个杯子。
 
-**Negative:** Subject + 不想 + Verb
+| Subject | 想 | Verb Phrase |
+|---------|---|----------|
+| 我 | 想 | 学汉语。|
+| 我 | 想 | 去学校看书。|
+| 我 | 想 | 买一个杯子。|
 
-> 我不想吃。— I don't want to eat.
+### 2. Interrogative Pronoun 多少
 
-### 2. Verb-Object Compounds
-吃饭, 喝水 etc. are verb-object pairs.
+多少 (duōshao) is used to ask about quantities greater than ten. The measure word after 多少 can be omitted. 多少 is also used to ask about prices, with the common pattern "……多少钱？".
 
-> 吃饭 — eat (rice/meal)
-> 喝水 — drink (water)
-> 喝茶 — drink (tea)
+> （1）你们学校有多少（个）学生？
+> （2）你有多少（个）汉语老师？
+> （3）这个杯子多少钱？
 
-### 3. 了 (le) - Completion Particle
-Shows an action is completed.
+### 3. Measure Words 个 and 口
 
-**Structure:** Subject + Verb + 了 + Object
+个 (gè) is the most common measure word in Chinese. It is generally used before nouns that do not have a specific measure word.
 
-> 我吃了饭。— I've eaten.
-> 他喝了茶。— He drank tea.
+> （1）三个老师
+> （2）五个学生
+> （3）一个杯子
 
-### 4. 一点儿 (yìdiǎnr) - A Little
-Modify nouns to mean "a bit of."
+口 (kǒu) is a measure word used to describe the number of family members (see Lesson 5).
 
-> 我想喝一点儿水。— I want to drink a bit of water.
-> 吃一点儿米饭。— Eat a little rice.
+> （1）李老师家有六口人。
+> （2）你家有几口人？
+> （3）我家有三口人。
+
+### 4. Money Expressions
+
+The basic unit of Chinese currency (RMB) is 元 (yuán). In spoken Chinese, 块 (kuài) is commonly used instead.
+
+| Written | Spoken | Meaning |
+|---------|--------|--------|
+| 一元 | 一块 | 1 yuan |
+| 五元 | 五块 | 5 yuan |
+| 十元 | 十块 | 10 yuan |
+| 五十元 | 五十块 | 50 yuan |
+| 一百元 | 一百块 | 100 yuan |
