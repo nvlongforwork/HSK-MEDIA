@@ -1,22 +1,18 @@
 # 第十三课 拼音 - Lesson 13 Pronunciation
 ## 他在学做中国菜呢。 - He Is Learning to Cook Chinese Food.
 
-### Three-Syllable Tone Combinations (2): Starting with 2nd Tone
+### Three-Syllable Tone Combinations: Starting with 2nd Tone
 
-Practice three-syllable words and phrases that begin with a 2nd tone syllable:
+The first syllable rises. Read the entire phrase naturally, and use the written tones as a guide. These phrases are built from common HSK 1 words.
 
-| 2+1+1 | 2+1+2 | 2+1+3 | 2+1+4 |
-|-------|-------|-------|-------|
-| méiguīhuā (rose) | niúyōuguǒ (avocado) | liúxīngyǔ (popular language) | yóujūcài (chrysanthemum greens) |
+| Written tones | Example | Pinyin |
+|---------------|---------|--------|
+| 2 + 1 + 2 | 明天来 | míngtiān lái |
+| 2 + 1 + 4 | 明天见 | míngtiān jiàn |
+| 2 + 1 + 2 | 来中国 | lái Zhōngguó |
+| 2 + 2 + 4 | 来学校 | lái xuéxiào |
+| 2 + 3 + 1 | 谁想吃？ | shéi xiǎng chī? |
 
-| 2+2+1 | 2+2+2 | 2+2+3 | 2+2+4 |
-|-------|-------|-------|-------|
-| húluóbo (carrot) | pútáoyuán (vineyard) | niúpízhǐ (kraft paper) | yóuyǒngsài (swimming race) |
+### Hear the Last Word
 
-| 2+3+1 | 2+3+2 | 2+3+3 | 2+3+4 |
-|-------|-------|-------|-------|
-| cáimǎidān (shopping list) | chénggǔrén (stockholder) | liáoběijiǎo (Liaobei Cape) | xuéyǒuhuì (alumni meet) |
-
-| 2+4+1 | 2+4+2 | 2+4+3 | 2+4+4 |
-|-------|-------|-------|-------|
-| niúròutāng (beef soup) | chángshoùmiàn (longevity noodles) | xuéshengzǔ (student group) | rénzàolù (artificial road) |
+Compare 明天来 and 明天见. They begin with the same two syllables; the last syllable changes the meaning. Play the listening activity below before looking at the pinyin.

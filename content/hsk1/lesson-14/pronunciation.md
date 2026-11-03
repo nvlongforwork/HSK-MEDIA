@@ -1,22 +1,18 @@
 # 第十四课 拼音 - Lesson 14 Pronunciation
 ## 她买了不少衣服。 - She Bought Quite a Few Clothes.
 
-### Three-Syllable Tone Combinations (3): Starting with 3rd Tone
+### Three-Syllable Tone Combinations: Starting with 3rd Tone
 
-When three syllables are combined, the tones interact in different ways. Here we practice combinations starting with the 3rd tone:
+The numbers show written tones. In connected speech, two third tones together trigger the tone change from Lesson 1: the first sounds like a second tone. A third tone before a different tone is usually a low half-third tone.
 
-| 3+1+1 | 3+1+2 | 3+1+3 | 3+1+4 |
-|-------|-------|-------|-------|
-| hǎi guān jiā (customs officer) | hǎi guān chuán (customs ship) | běi huā guǎn (flower hall) | běi huā diàn (flower shop) |
+| Written tones | Example | Pinyin | Listen for |
+|---------------|---------|--------|------------|
+| 3 + 3 + 1 | 我买书 | wǒ mǎi shū | 我 before 买 |
+| 3 + 3 + 4 | 你想去 | nǐ xiǎng qù | 你 before 想 |
+| 3 + 4 + 2 | 你是谁 | nǐ shì shéi | low 你 |
+| 3 + 4 + 3 | 我爱你 | wǒ ài nǐ | low 我 |
+| 3 + 2 + neutral | 好朋友 | hǎo péngyou | unstressed 友 |
 
-| 3+2+1 | 3+2+2 | 3+2+3 | 3+2+4 |
-|-------|-------|-------|-------|
-| jiǎndān shuō (speak simply) | yǔmáo qiú (badminton) | bǎo chí hǎo (keep well) | xiǎo háizi (little child) |
+### Read Written and Spoken Tones
 
-| 3+3+1 | 3+3+2 | 3+3+3 | 3+3+4 |
-|-------|-------|-------|-------|
-| xuǎnjǔ rén (elect someone) | mǎi yǔ yī (buy raincoat) | xiǎn yǎn fǎ (eye trick) | gǎi xiě běn (rewrite) |
-
-| 3+4+1 | 3+4+2 | 3+4+3 | 3+4+4 |
-|-------|-------|-------|-------|
-| xiǎo yèqū (small night district) | hǎo dàxué (good university) | mǎi dàmǐ (buy rice) | lǎo dàyé (elderly man) |
+For 我买书, the written pinyin is wǒ mǎi shū. When spoken together, the first third tone changes: wó mǎi shū. Do not rewrite the original pinyin in the word list just to show this spoken change.

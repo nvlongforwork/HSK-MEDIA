@@ -3,7 +3,7 @@
 
 ### Initials: zh, ch, sh, r (Retroflex Consonants)
 
-zh, ch, sh, r are retroflex consonants — the tongue tip curls back to touch the hard palate:
+zh, ch, sh, r are retroflex consonants — the tongue tip curls back toward the hard palate. Only zh and ch briefly make contact:
 
 | Initial | Description | Similar To |
 |---------|-------------|------------|

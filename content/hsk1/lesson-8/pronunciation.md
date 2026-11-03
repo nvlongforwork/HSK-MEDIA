@@ -15,7 +15,7 @@ When two syllables are combined, the tone of each syllable may sound slightly di
 |---|---|---|---|
 | lǎo shī | lǎorén | yǔsǎn | yǒu yòng |
 | měi tiān | měi nián | měihǎo | měilì |
-| hǎib iān | hǎimián | xǐ zǎo | gǎnxiè |
+| hǎibiān | hǎimián | xǐ zǎo | gǎnxiè |
 | yǐjīng | yǐqián | biǎyǎn | biǎxiàn |
 
 ### Note on 3rd Tone Combinations

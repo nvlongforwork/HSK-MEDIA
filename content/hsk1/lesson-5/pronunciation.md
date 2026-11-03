@@ -82,7 +82,4 @@ When a syllable starting with a, o, or e follows another syllable, an apostrophe
 |-----------|--------|
 | piāo (to float) | pí’ǎo (leather coat) |
 | jiē (to receive) | jī’è (hungry) |
-| fànàn (revolt) | fàn’àn (set meal) |
 | xiān (first) | Xī’ān (Xi’an city) |
-| jiāng (river) | jī’áng (excited) |
-| fǎngǎn (feeling) | fāng’àn (plan) |

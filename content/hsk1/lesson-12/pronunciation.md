@@ -1,22 +1,19 @@
 # 第十二课 拼音 - Lesson 12 Pronunciation
 ## 明天天气怎么样？ - How's the Weather Tomorrow?
 
-### Three-Syllable Tone Combinations (1): Starting with 1st Tone
+### Three-Syllable Tone Combinations: Starting with 1st Tone
 
-When three syllables are combined, the tones interact in different ways. Here we practice combinations starting with the 1st tone:
+Read the three syllables together instead of sounding out each character separately. The numbers show the written tones of each syllable. These examples use familiar HSK 1 words and phrases.
 
-| 1+1+1 | 1+1+2 | 1+1+3 | 1+1+4 |
-|-------|-------|-------|-------|
-| xīngqī yī (Monday) | bīngqílíng (ice cream) | xīngqī wǔ (Friday) | xīngqī liù (Saturday) |
+| Written tones | Example | Pinyin |
+|---------------|---------|--------|
+| 1 + 1 + 1 | 星期一 | xīngqī yī |
+| 1 + 1 + 3 | 星期五 | xīngqī wǔ |
+| 1 + 1 + 4 | 星期六 | xīngqī liù |
+| 1 + 2 + 3 | 吃苹果 | chī píngguǒ |
+| 1 + 3 + 1 | 听老师 | tīng lǎoshī |
+| 1 + 3 + 4 | 吃米饭 | chī mǐfàn |
 
-| 1+2+1 | 1+2+2 | 1+2+3 | 1+2+4 |
-|-------|-------|-------|-------|
-| qīngjiégōng (cleaner) | zhuōmícáng (hide and seek) | chī píngguǒ (eat apple) | Jiānádà (Canada) |
+### Listen to a Whole Phrase
 
-| 1+3+1 | 1+3+2 | 1+3+3 | 1+3+4 |
-|-------|-------|-------|-------|
-| gāojiǎobēi (goblet) | duī xuěrén (make snowman) | huā yǔsǎn (colorful umbrella) | chī mǐfàn (eat rice) |
-
-| 1+4+1 | 1+4+2 | 1+4+3 | 1+4+4 |
-|-------|-------|-------|-------|
-| hāmìguā (Hami melon) | jīqìrén (robot) | bōlànggǔ (rattle drum) | yīwùshì (clinic) |
+In 星期五, keep the two first tones steady before the third tone. In 吃苹果, the second tone rises before the third tone. Listen for the complete phrase, then identify the word you heard in the activity below.

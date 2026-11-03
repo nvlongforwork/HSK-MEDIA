@@ -14,7 +14,7 @@
 | Palatal | Flat Tongue |
 |---------|-------------|
 | jī (chicken) | zī (capital) |
-| qī (seven) | cī (porcelain) |
+| qī (seven) | cí (porcelain) |
 | xī (west) | sī (silk) |
 
 ### Vowels: i, u, ü

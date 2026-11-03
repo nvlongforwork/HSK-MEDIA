@@ -1,38 +1,21 @@
 # 第十一课 拼音 - Lesson 11 Pronunciation
 ## 现在几点？ - What Time Is It?
 
-### Functions of Neutral Tone
+### Neutral Tone in Short Sentences
 
-The neutral tone in Chinese is not just a phonological phenomenon — it can also distinguish word meanings. For example:
+Lesson 10 introduced neutral-tone syllables in words such as 妈妈 (māma) and 杯子 (bēizi). Now listen for the unstressed syllable in a whole sentence: it is short and has no written tone mark.
 
-| Characters | With Tone | With Neutral Tone |
-|-----------|-----------|-------------------|
-| 老子 | lǎozǐ (Laozi, a philosopher) | lǎozi (father, dad) |
-| 买卖 | mǎimài (buying and selling, noun) | mǎimai (business, verb-object) |
-| 大意 | dàyì (main idea, noun) | dàyi (careless, adjective) |
+| Sentence | Pinyin | Listen for |
+|----------|--------|------------|
+| 你叫什么名字？ | Nǐ jiào shénme míngzi? | me in 什么; zi in 名字 |
+| 这是我的书。 | Zhè shì wǒ de shū. | de in 我的 |
+| 他在家吗？ | Tā zài jiā ma? | ma at the end |
+| 我们去学校。 | Wǒmen qù xuéxiào. | men in 我们 |
 
-### Neutral Tone in Reduplicated Words
+### Meaning Can Change with a Neutral Tone
 
-In two-syllable reduplicated words, the second syllable is usually pronounced with a neutral tone.
+东西 (dōngxi) means “thing” and is a common HSK 1 word. When both syllables carry their full tones, 东西 (dōngxī) means “east and west.” Listen for the difference; do not try to stress every syllable equally.
 
-**Practice Words:**
+### Quick Listening Check
 
-| | | | |
-|---|---|---|---|
-| bàba | māma | yéye | nǎinai |
-| gēge | jiějie | dìdi | mèimei |
-| gūgu | shūshu | tàitai | xīngxing |
-| xièxie | kànkan | shuōshuo | chángchang |
-
-### Neutral Tone in Suffixes: -们, -子, -头
-
-In words with suffixes -们, -子, or -头, the suffix is generally pronounced with a neutral tone.
-
-**Practice Words:**
-
-| | | | |
-|---|---|---|---|
-| nǐmen | wǒmen | tāmen | rénmen |
-| zhuōzi | yǐzi | bēizi | bèizi |
-| shétou | zhěntou | shítou | mùtou |
-| qiántou | hòutou | lǐtou | wàitou |
+First listen without reading the pinyin, then choose what you heard. Replay once and compare the short neutral-tone syllables in the sentences above. The listening activity below this lesson uses familiar HSK 1 words.
