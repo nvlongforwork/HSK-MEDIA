@@ -5,10 +5,10 @@
 
 | Stroke | Name | Pinyin | Direction | Example |
 |--------|------|--------|-----------|--------|
-| ㇄ | vertical-bend-hook | shùwāngōu | ↓⌒↑ | 七 qī, 儿 ér |
-| 乙 | horizontal-turn-bend-hook | héngzhéwāngōu | →↓⌒↑ | 九 jiǔ, 几 jǐ |
+| ㇟ | vertical-bend-hook | shùwāngōu | ↓⌒↑ | 七 qī, 儿 ér |
+| ㇈ | horizontal-turn-bend-hook | héngzhéwāngōu | →↓⌒↑ | 九 jiǔ, 几 jǐ |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|
@@ -22,4 +22,4 @@
 | Rule | Description | Example |
 |------|-------------|--------|
 | Top to bottom (从上到下) | Write upper strokes before lower strokes | 二 èr (two): 一 then 一; 三 sān (three): 一 then 一 then 一 |
-| Left to right (从左到右) | Write left strokes before right strokes | 几 jǐ: ノ then ㇄; 八 bā (eight): ノ then ㇏ |
+| Left to right (从左到右) | Write left strokes before right strokes | 几 jǐ: 丿 then ㇈; 八 bā (eight): 丿 then ㇏ |

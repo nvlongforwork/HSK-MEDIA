@@ -1,7 +1,7 @@
 # 第十五课 汉字 - Lesson 15 Writing
 ## 我是坐飞机来的。 - I Came by Plane.
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|----------|

@@ -8,7 +8,7 @@
 | ㇆ | horizontal-turning-hook | héngzhégōu | →↓↰ | 月 yuè, 买 mǎi |
 | ㇃ | reclining-hook | wògōu | ⌒↗ | 心 xīn |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

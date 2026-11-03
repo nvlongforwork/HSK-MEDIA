@@ -1,7 +1,7 @@
 # 第十一课 汉字 - Lesson 11 Writing
 ## 现在几点？ - What Time Is It?
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

@@ -1,7 +1,7 @@
 # 第九课 汉字 - Lesson 9 Writing
 ## 你儿子在哪儿工作？ - Where Does Your Son Work?
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

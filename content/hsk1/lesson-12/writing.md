@@ -1,7 +1,7 @@
 # 第十二课 汉字 - Lesson 12 Writing
 ## 明天天气怎么样？ - How's the Weather Tomorrow?
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|----------|

@@ -1,7 +1,7 @@
 # 第十课 汉字 - Lesson 10 Writing
 ## 我能坐这儿吗？ - Can I Sit Here?
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

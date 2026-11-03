@@ -11,7 +11,7 @@
 | 丶 | dot | diǎn | ↘ | 不 bù, 六 liù |
 | ㇏ | right-falling | nà | ↘ | 大 dà, 天 tiān |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

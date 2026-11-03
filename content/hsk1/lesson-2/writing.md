@@ -9,7 +9,7 @@
 | ㇗ | vertical-turning | shùzhé | ↓→ | 山 shān |
 | 亅 | vertical-hook | shùgōu | ↓↰ | 小 xiǎo, 水 shuǐ |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

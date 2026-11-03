@@ -5,11 +5,11 @@
 
 | Stroke | Name | Pinyin | Direction | Example |
 |--------|------|--------|-----------|--------|
-| ∠ | slanting-turning | piězhé | ↙→ | 么 me, 东 dōng |
+| ㇜ | slanting-turning | piězhé | ↙→ | 么 me, 东 dōng |
 | ㇂ | slanting-hook | xiégōu | ↘↗ | 我 wǒ, 钱 qián |
 | ㇀ | upward-flick | tí | ↗ | 我 wǒ, 打 dǎ |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

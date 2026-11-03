@@ -1,7 +1,7 @@
 # 第七课 汉字 - Lesson 7 Writing
 ## 今天几号？ - What Is the Date Today?
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

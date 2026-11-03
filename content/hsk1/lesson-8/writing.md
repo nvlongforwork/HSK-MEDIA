@@ -1,7 +1,7 @@
 # 第八课 汉字 - Lesson 8 Writing
 ## 我想喝茶。 - I Want to Drink Tea.
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|

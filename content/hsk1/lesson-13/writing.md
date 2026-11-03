@@ -1,7 +1,7 @@
 # 第十三课 汉字 - Lesson 13 Writing
 ## 他在学做中国菜呢。 - He Is Learning to Cook Chinese Food.
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|----------|

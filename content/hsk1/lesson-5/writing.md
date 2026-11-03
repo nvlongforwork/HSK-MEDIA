@@ -6,9 +6,9 @@
 | Stroke | Name | Pinyin | Direction | Example |
 |--------|------|--------|-----------|--------|
 | ㇇ | horizontal-slanting | héngpiě | →↙ | 水 shuǐ, 又 yòu |
-| ㇙ | slanting-dot | piědiǎn | ↙• | 女 nǚ, 好 hǎo |
+| ㇛ | slanting-dot | piědiǎn | ↙↘ | 女 nǚ, 好 hǎo |
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|--------|
@@ -21,5 +21,5 @@
 
 | Rule | Description | Example |
 |------|-------------|--------|
-| Outside before inside (先外后内) | Write outer strokes before inner strokes | 四 sì (four): outer frame first, then inner; 国 guó (country): outer frame first |
+| Outside, inside, then close (先外后内再封口) | For enclosed characters, write the first two outer strokes, the inside, and the closing bottom stroke last | 四 sì, 国 guó: open the enclosure, write the inside, then close it with 一 |
 | Center before sides (先中间后两边) | Write the center stroke before the two sides | 小 xiǎo (small): center stroke first; 水 shuǐ (water): center stroke first |

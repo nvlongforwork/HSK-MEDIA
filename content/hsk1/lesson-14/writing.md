@@ -1,7 +1,7 @@
 # 第十四课 汉字 - Lesson 14 Writing
 ## 她买了不少衣服。 - She Bought Quite a Few Clothes.
 
-### Simple Characters (独体字)
+### Focus Characters (重点汉字)
 
 | # | Character | Pinyin | Strokes | Meaning |
 |---|-----------|--------|---------|----------|
