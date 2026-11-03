@@ -17,3 +17,5 @@
 | 10 | 字 | zì | character, word | 这个字怎么写？|
 | 11 | 怎么 | zěnme | how | 这个字怎么写？|
 | 12 | 读 | dú | to read (aloud) | 这个字我会读。|
+| 13 | 汉语 | Hànyǔ | Chinese language | 我会说汉语。|
+| 14 | 说话 | shuōhuà | to speak, to talk | 他在说话。|

@@ -14,6 +14,8 @@
 | 7 | 吗 | ma | question particle | 你是老师吗？|
 | 8 | 学生 | xuésheng | student | 我是学生。|
 | 9 | 人 | rén | person, people | 你是中国人吗？|
+| 10 | 他 | tā | he, him | 他叫什么名字？|
+| 11 | 她 | tā | she, her | 她是老师吗？|
 
 ### 专有名词 Proper Nouns
 

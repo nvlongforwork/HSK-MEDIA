@@ -15,3 +15,4 @@
 | 10 | 机场 | jīchǎng | airport | 去机场。|
 | 11 | 火车站 | huǒchēzhàn | train station | 去火车站。|
 | 12 | 饭店 | fàndiàn | restaurant | 去饭店吃饭。|
+| 13 | 中国 | Zhōngguó | China | 我住在中国。|

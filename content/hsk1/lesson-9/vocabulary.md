@@ -19,3 +19,6 @@
 | 12 | 医生 | yīshēng | doctor | 他是医生。|
 | 13 | 爸爸 | bàba | father, dad | 你爸爸在家吗？|
 | 14 | 家 | jiā | home, family | 你爸爸在家吗？|
+| 15 | 女儿 | nǚ'ér | daughter | 她女儿在医院工作。|
+| 16 | 里 | lǐ | inside; in | 我在家里。|
+| 17 | 商店 | shāngdiàn | shop, store | 他在商店工作。|

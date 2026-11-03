@@ -9,3 +9,4 @@
 | 4 | 你们 | nǐmen | you (plural) | 你们好！|
 | 5 | 对不起 | duìbuqǐ | sorry | 对不起！|
 | 6 | 没关系 | méi guānxi | it's okay, no problem | 没关系！|
+| 7 | 我们 | wǒmen | we, us | 我们很好。|

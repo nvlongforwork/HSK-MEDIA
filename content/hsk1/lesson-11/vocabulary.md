@@ -15,3 +15,4 @@
 | 10 | 回 | huí | to return | 回家。|
 | 11 | 电影 | diànyǐng | movie, film | 看电影。|
 | 12 | 中午 | zhōngwǔ | noon, midday | 中午十二点。|
+| 13 | 零 | líng | zero | 现在十点零五分。|

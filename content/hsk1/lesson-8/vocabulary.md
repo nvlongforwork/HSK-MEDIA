@@ -14,3 +14,4 @@
 | 9 | 杯子 | bēizi | cup, glass | 一个杯子。|
 | 10 | 苹果 | píngguǒ | apple | 吃苹果。|
 | 11 | 水果 | shuǐguǒ | fruit | 吃水果。|
+| 12 | 饭馆 | fànguǎn | restaurant | 我们去饭馆吃饭。|

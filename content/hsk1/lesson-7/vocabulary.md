@@ -17,3 +17,6 @@
 | 10 | 学校 | xuéxiào | school | 你去学校吗？|
 | 11 | 看 | kàn | to look, to read | 我去学校看书。|
 | 12 | 书 | shū | book | 我去学校看书。|
+| 13 | 几 | jǐ | how many; which | 今天星期几？|
+| 14 | 年 | nián | year | 一年。|
+| 15 | 日 | rì | day; date | 今天是三月五日。|

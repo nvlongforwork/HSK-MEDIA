@@ -7,3 +7,4 @@
 | 2 | 不 | bù | not, no | 不客气！|
 | 3 | 不客气 | bú kèqi | you're welcome | 不客气！|
 | 4 | 再见 | zàijiàn | goodbye | 再见！|
+| 5 | 没 | méi | not; have not | 没关系！|
