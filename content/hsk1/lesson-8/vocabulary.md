@@ -12,6 +12,7 @@
 | 7 | 米饭 | mǐfàn | cooked rice | 吃米饭。|
 | 8 | 菜 | cài | dish, vegetable | 中国菜。|
 | 9 | 杯子 | bēizi | cup, glass | 一个杯子。|
-| 10 | 苹果 | píngguǒ | apple | 吃苹果。|
-| 11 | 水果 | shuǐguǒ | fruit | 吃水果。|
-| 12 | 饭馆 | fànguǎn | restaurant | 我们去饭馆吃饭。|
+| 10 | 这 | zhè | this | 这个杯子很好。|
+| 11 | 苹果 | píngguǒ | apple | 吃苹果。|
+| 12 | 水果 | shuǐguǒ | fruit | 吃水果。|
+| 13 | 饭馆 | fànguǎn | restaurant | 我们去饭馆吃饭。|

@@ -15,4 +15,5 @@
 | 10 | 和 | hé | and | 爸爸和妈妈。|
 | 11 | 的 | de | (possessive particle) | 我的老师。|
 | 12 | 谁 | shéi | who | 她是谁？|
-| 13 | 呢 | ne | (follow-up question particle) | 你呢？|
+| 13 | 哪 | nǎ | which | 你是哪国人？|
+| 14 | 呢 | ne | (follow-up question particle) | 你呢？|
