@@ -2,10 +2,10 @@
 
 1. ___，你是李老师吗？Mở đầu một cuộc gọi điện thoại.
 - A) 谢谢
-- B) 喝 ✓
+- B) 喂 ✓
 - C) 你好
 - D) 请问
-> 喝 (wéi) = a lô, dùng mở đầu khi nghe/gọi điện thoại. 你好 dùng chào trực tiếp, 请问 dùng hỏi lịch sự.
+> 喂 (wéi) = a lô, dùng mở đầu khi nghe/gọi điện thoại. 你好 dùng chào trực tiếp, 请问 dùng hỏi lịch sự.
 
 2. 我___看书呢。Điền từ đứng trước động từ để nói đang làm.
 - A) 没
@@ -100,8 +100,8 @@
 
 ### Fill in the Blanks
 
-1. Điền lời a lô khi gọi điện: ___，你现在在哪儿 → 喝
-> 喝 (wéi) = a lô, chỉ dùng khi nói chuyện điện thoại.
+1. Điền lời a lô khi gọi điện: ___，你现在在哪儿 → 喂
+> 喂 (wéi) = a lô, dùng khi nói chuyện điện thoại. 喝 (hē) nghĩa là uống.
 2. Điền từ "đang" đứng trước động từ: 我___看书呢 → 在
 > 在 (zài) + động từ + 呢 = đang làm gì đó.
 3. Điền trợ từ ne ở cuối câu kể: 他在工作___ → 呢

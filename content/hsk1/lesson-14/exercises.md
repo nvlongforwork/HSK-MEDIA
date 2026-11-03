@@ -1,18 +1,18 @@
 ### Multiple Choice
 
 1. 我去商店买___了。Nói chung về đồ mua được.
-- A) 苹果
-- B) 衣服
+- A) 昨天
+- B) 怎么
 - C) 东西 ✓
-- D) 杯子
-> 东西 (dōngxi) = đồ đạc, đồ vật (nói chung). Khi không nói cụ thể mua gì thì dùng 东西. 苹果 = táo, 衣服 = quần áo, 杯子 = ly — đều quá cụ thể.
+- D) 哪儿
+> 东西 (dōngxi) = đồ đạc, đồ vật; đây là từ duy nhất có thể làm tân ngữ cho 买 trong bốn lựa chọn.
 
 2. 我买了___苹果。Điền cụm một ít.
-- A) 不少
+- A) 昨天
 - B) 一点儿 ✓
-- C) 很多
-- D) 这些
-> 一点儿 (yìdiǎnr) = một ít, một chút. 不少 = không ít (khá nhiều), 很多 = rất nhiều — đều không phải "một ít".
+- C) 怎么
+- D) 哪儿
+> 一点儿 (yìdiǎnr) = một ít, một chút; đứng trước danh từ 苹果 trong câu này.
 
 3. 你___李老师了吗？Điền từ nhìn thấy.
 - A) 看
@@ -64,10 +64,10 @@
 > 后 (hòu) = sau. "五点后" = sau 5 giờ. 前 = trước (nghĩa ngược lại).
 
 10. 她买了不少___。Điền từ quần áo.
-- A) 东西
-- B) 苹果
+- A) 了
+- B) 吗
 - C) 衣服 ✓
-- D) 书
+- D) 也
 > 衣服 (yīfu) = quần áo. "买了不少衣服" = mua khá nhiều quần áo.
 
 11. 你的衣服太___了！Điền tính từ đẹp.
