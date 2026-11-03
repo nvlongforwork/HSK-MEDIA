@@ -1,21 +1,19 @@
 # 第十三课 词汇 - Lesson 13 Vocabulary
-## 他在学做中国菜呢。 - He Is Learning to Cook Chinese Food.
+## 他在学做中国菜 - He's Learning to Cook Chinese Food
 
 | # | 汉字 | 拼音 | English | Example |
-|---|------|------|---------|----------|
-| 1 | 喂 | wèi | hello (on phone) | 喂，你好！ |
-| 2 | 学习 | xuéxí | to study | 我学习中文。 |
-| 3 | 上午 | shàngwǔ | morning (AM) | 上午我去学校。 |
-| 4 | 睡觉 | shuìjiào | to sleep | 你睡觉了吗？ |
-| 5 | 电视 | diànshì | television | 看电视。 |
-| 6 | 喜欢 | xǐhuan | to like | 我喜欢中国菜。 |
-| 7 | 给 | gěi | to give; for | 给你打电话。 |
-| 8 | 打电话 | dǎ diànhuà | to make a phone call | 我给他打电话。 |
-| 9 | 吧 | ba | modal particle (suggestion) | 我们去吧。 |
-| 10 | 呢 | ne | modal particle (progressive) | 他在学习呢。 |
-
-### Proper Nouns
-
-| 汉字 | 拼音 | English |
-|------|------|----------|
-| 大卫 | Dàwèi | David (a person's name) |
+|---|------|------|---------|--------|
+| 1 | 做 | zuò | to do, to make | 做菜。|
+| 2 | 看 | kàn | to look, to watch | 看书。|
+| 3 | 看见 | kànjiàn | to see | 我看见了。|
+| 4 | 听 | tīng | to listen | 听老师说。|
+| 5 | 喜欢 | xǐhuan | to like | 我喜欢。|
+| 6 | 认识 | rènshi | to know (person) | 认识你很高兴。|
+| 7 | 高兴 | gāoxìng | happy | 很高兴。|
+| 8 | 漂亮 | piàoliang | beautiful | 很漂亮。|
+| 9 | 学习 | xuéxí | to study | 学习中文。|
+| 10 | 打电话 | dǎ diànhuà | to make a phone call | 给他打电话。|
+| 11 | 电话 | diànhuà | telephone, phone | 我的电话。|
+| 12 | 电视 | diànshì | television, TV | 看电视。|
+| 13 | 喂 | wéi | hello (on phone) | 喂，你好！|
+| 14 | 睡觉 | shuìjiào | to sleep | 我在睡觉。|

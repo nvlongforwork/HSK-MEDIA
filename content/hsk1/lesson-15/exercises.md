@@ -91,6 +91,13 @@
 - D) 去
 > 坐 (zuò) = ngồi, đi (bằng phương tiện). "坐飞机" = đi máy bay. 开 = lái (chủ động), 坐 = đi (thụ động, ngồi trên xe).
 
+14. 我们去___坐火车。Điền từ ga tàu hỏa.
+- A) 机场
+- B) 火车站 ✓
+- C) 学校
+- D) 医院
+> 火车站 (huǒchēzhàn) = ga tàu hỏa. 火车 = tàu hỏa, 站 = trạm/ga. 机场 = sân bay (dành cho máy bay, không phải tàu hỏa).
+
 ### Fill in the Blanks
 
 1. Điền từ "quen/biết": 很高兴___你 → 认识
@@ -121,5 +128,7 @@
 > 怎么 (zěnme) = như thế nào, bằng cách nào. "怎么来的" = đến bằng cách nào.
 14. Điền đơn vị tháng: 我们是在二零一一年九___认识的 → 月
 > 月 (yuè) = tháng. 九月 = tháng 9.
-15. Điền đơn vị ngày (khẩu ngữ): 今天是二零一一年九月十___ → 号
+15. Điền từ "ga tàu hỏa": 我们去___坐火车 → 火车站
+> 火车站 (huǒchēzhàn) = ga tàu hỏa. 火车 = tàu hỏa, 站 = trạm/ga. Đi tàu thì đến 火车站, đi máy bay thì đến 机场 (sân bay).
+16. Điền đơn vị ngày (khẩu ngữ): 今天是二零一一年九月十___ → 号
 > 号 (hào) = ngày (khẩu ngữ). Trong văn viết dùng 日 (rì), khẩu ngữ dùng 号.
