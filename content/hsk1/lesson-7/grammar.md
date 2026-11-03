@@ -3,11 +3,12 @@
 
 ### 1. Date Expressions (1): Month, Date, Day of the Week
 
-In Chinese, dates are expressed from the largest unit to the smallest: first 月 (month), then 日/号 (date), and finally 星期 (day of the week). In spoken Chinese, 号 is commonly used instead of 日.
+In Chinese, give dates from the largest unit to the smallest: 年 (year) + 月 (month) + 日/号 (day of the month). If you also mention the day of the week, place it after the date. In conversation, 号 is commonly used instead of 日.
 
-> （1）9月1号，星期三。
-> （2）9月2号，星期四。
-> （3）8月31号，星期二。
+> （1）2024年9月1日。
+> （2）9月1号，星期三。
+> （3）9月2号，星期四。
+> （4）8月31号，星期二。
 
 **Months (月份):**
 

@@ -25,12 +25,12 @@ Note: 在 or 呢 can be used alone, but using both together is most common.
 
 ### Telephone Numbers
 
-Chinese phone numbers are read digit by digit. The digit 1 is read as yāo (not yī) to avoid confusion with 7 (qī).
+Chinese phone numbers are read digit by digit. In phone numbers, the digit 1 is commonly read as yāo to distinguish it from 7 (qī); yī is also possible.
 
 | Digit | Reading |
 |-------|----------|
 | 0 | líng |
-| 1 | yāo |
+| 1 | yāo (also yī) |
 | 2 | èr |
 | 3 | sān |
 | 4 | sì |

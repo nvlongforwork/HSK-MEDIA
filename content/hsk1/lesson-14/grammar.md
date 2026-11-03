@@ -16,6 +16,8 @@
 > 我没买衣服。— I didn't buy clothes.
 > 他没看见张先生。— He didn't see Mr. Zhang.
 
+Compare with 不: 我不买衣服 can describe a choice or habit ("I don't buy clothes"); 我没买衣服 means "I didn't buy clothes" on this occasion. For "do not have," use 没有 (Lesson 5).
+
 **Question:** Verb + 了 + Object + 没有？
 
 > 你买了东西没有？— Did you buy anything?
@@ -39,10 +41,10 @@
 
 ### 4. Adverb 都 (dōu) — "All / Both"
 
-都 (dōu) is placed before the verb and refers back to all the items or people mentioned before it.
+都 (dōu) is placed before the predicate (a verb or an adjective) and refers back to all the items or people mentioned before it.
 
 > 这些衣服都很漂亮。— These clothes are all very pretty.
 > 我们都是学生。— We are all students.
 > 他们都喜欢中国菜。— They all like Chinese food.
 
-**Note:** 都 always appears **before** the verb, and refers to what comes **before** it in the sentence.
+**Pattern:** Subject (plural or a group) + 都 + verb/adjective. In 我们都是学生, 都 comes before 是; in 这些衣服都很漂亮, it comes before 很漂亮.

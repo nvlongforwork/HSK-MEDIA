@@ -35,3 +35,17 @@ Chinese has different expressions for asking age depending on the person:
 > （1）她今年四岁了。(She has turned four.)
 > （2）她今年50岁了。(She has turned 50.)
 > （3）他是大学生了。(He has become a college student.)
+
+### 4. 不 vs 没(有) — Two Ways to Negate
+
+Use 不 (bù) before 是 or an adjective, and with verbs for habits or intentions. Use 没有 (méiyǒu) to say that someone does not have something.
+
+| Meaning | Chinese | Pattern |
+|---------|---------|---------|
+| I am not a student. | 我不是学生。 | 不 + 是 |
+| He is not well. | 他不好。 | 不 + adjective |
+| I do not have a daughter. | 我没有女儿。 | 没有 + noun |
+
+> ❌ 我不有女儿。 → ✅ 我没有女儿。
+
+For an action that did not happen, 没(有) also goes before the verb; this use is explained with 了 in Lesson 14.

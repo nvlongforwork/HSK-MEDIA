@@ -9,13 +9,14 @@
 |----------|---|--------|
 | 椅子下面 | 有 | 一只小狗。|
 | 学校里 | 有 | 一个商店。|
-| 桌子上 | 有 | 一个电脑和一本书。|
+| 桌子上 | 有 | 一本书和一个杯子。|
 
-The negative form uses 没有, and the object cannot have a numeral-measure word modifier before it.
+The negative form uses 没有. In a simple answer, it is natural to say 没有 + noun. A number and measure word can also follow 没有 when you are talking about an exact quantity.
 
 > （1）椅子下面没有小狗。
 > （2）学校里没有商店。
 > （3）桌子上没有电脑和书。
+> （4）桌子上没有三本书，只有一本。— There aren't three books on the table, only one.
 
 ### 2. Conjunction 和
 
@@ -23,7 +24,7 @@ The negative form uses 没有, and the object cannot have a numeral-measure word
 
 > （1）我有一个中国朋友和一个美国朋友。
 > （2）我家有三口人，爸爸、妈妈和我。
-> （3）桌子上有一个电脑和一本书。
+> （3）桌子上有一本书和一个杯子。
 
 ### 3. Modal Verb 能
 
