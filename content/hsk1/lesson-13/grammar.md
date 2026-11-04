@@ -3,7 +3,7 @@
 
 ### Interjection 喂
 
-喂 (wèi) is used as a greeting when answering or making a phone call. It is similar to "Hello?" on the phone in English.
+喂 (wéi) is used as a greeting when answering or making a phone call. It is similar to "Hello?" on the phone in English.
 
 > 喂，你好！大卫在吗？ — Hello! Is David there?
 > 喂，请问李老师在吗？ — Hello, may I ask if Teacher Li is there?
